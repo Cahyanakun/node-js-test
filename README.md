@@ -2,6 +2,13 @@
 
 If you would still prefer to do the installation manually, follow these steps:
 
+Clone the repo:
+
+```bash
+git clone https://github.com/Cahyanakun/node-js-test.git
+cd node-js-test
+```
+
 Install the dependencies:
 
 ```bash
